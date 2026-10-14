@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary Office files
+~$*.docx
+
+# Local model artifacts
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Duplicate raw archives and generated dumps
+*.zip
+111*.pdf
